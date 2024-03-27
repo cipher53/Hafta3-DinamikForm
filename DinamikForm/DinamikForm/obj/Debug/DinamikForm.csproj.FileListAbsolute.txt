@@ -1,0 +1,9 @@
+C:\Users\fatihzahidgenc\source\repos\DinamikForm\DinamikForm\bin\Debug\DinamikForm.exe.config
+C:\Users\fatihzahidgenc\source\repos\DinamikForm\DinamikForm\bin\Debug\DinamikForm.exe
+C:\Users\fatihzahidgenc\source\repos\DinamikForm\DinamikForm\bin\Debug\DinamikForm.pdb
+C:\Users\fatihzahidgenc\source\repos\DinamikForm\DinamikForm\obj\Debug\DinamikForm.csprojAssemblyReference.cache
+C:\Users\fatihzahidgenc\source\repos\DinamikForm\DinamikForm\obj\Debug\DinamikForm.Form1.resources
+C:\Users\fatihzahidgenc\source\repos\DinamikForm\DinamikForm\obj\Debug\DinamikForm.Properties.Resources.resources
+C:\Users\fatihzahidgenc\source\repos\DinamikForm\DinamikForm\obj\Debug\DinamikForm.csproj.GenerateResource.cache
+C:\Users\fatihzahidgenc\source\repos\DinamikForm\DinamikForm\obj\Debug\DinamikForm.exe
+C:\Users\fatihzahidgenc\source\repos\DinamikForm\DinamikForm\obj\Debug\DinamikForm.pdb
